@@ -1,0 +1,32 @@
+
+.warp{
+ 
+ 
+ 
+}
+
+#arWlacome{
+font-size:30px;
+width:1350px;
+font-style: oblique;
+background-color: lightcyan;
+float: left;
+
+
+
+}
+ul {
+padding-bottom: 0px;
+ float: right;
+ background-color: inherit;
+ padding-bottom: 100;
+ }
+ li{
+ 	font-size: 20px;
+display:inline-block ;
+ }
+
+ a{
+
+ }
+ 
